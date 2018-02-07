@@ -7,3 +7,12 @@ C:\Users\Petr_Chebanenko\Desktop\linq\task\Task\Task\obj\Debug\SampleSupport.Sam
 C:\Users\Petr_Chebanenko\Desktop\linq\task\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
 C:\Users\Petr_Chebanenko\Desktop\linq\task\Task\Task\obj\Debug\Task.exe
 C:\Users\Petr_Chebanenko\Desktop\linq\task\Task\Task\obj\Debug\Task.pdb
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\bin\Debug\Task.exe.config
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\obj\Debug\Task.exe
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\obj\Debug\Task.pdb
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\bin\Debug\Task.exe
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\bin\Debug\Task.pdb
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\obj\Debug\Task.Properties.Resources.resources
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\obj\Debug\SampleSupport.SampleForm.resources
+D:\PetrChe\Mentoring\linq\LinqTask\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache

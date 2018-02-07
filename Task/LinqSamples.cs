@@ -63,6 +63,7 @@ namespace SampleQueries
 			}
 		}
 
+        //Задание по модулю
         [Category("Homework")]
         [Title("1 task")]
         [Description("Sum of all the orders more than X")]
